@@ -26,6 +26,9 @@
 
 Columns: year, policedistrict, type, count, subtype
 
+<img width="196" alt="image" src="https://user-images.githubusercontent.com/90723578/168210756-be436527-cb9c-4e81-a8be-350d57c6093a.png">
+
+
 
 ### Crime Rates
 
