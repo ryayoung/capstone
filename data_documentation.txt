@@ -161,6 +161,7 @@ Age Num
   Sum:    -
 
 
+----------------------------------------------------------------------
 
 Crimes in Colorado 1997 to 2015
 https://dev.socrata.com/foundry/data.colorado.gov/6vnq-az4b 
@@ -361,6 +362,7 @@ Incident Date
   Count:  4,949,526
 
 
+----------------------------------------------------------------------
 
 Crime Arrests by Police District 2001-2016 in Colorado
 https://dev.socrata.com/foundry/data.colorado.gov/2e5i-5hfy 
@@ -443,6 +445,7 @@ policeDistrict
      Dillon PD  (18)
 
 
+----------------------------------------------------------------------
 
 District Student Mobility/Stability Statistics for 2011-2012 by Instructional Program/Service Type
 https://dev.socrata.com/foundry/data.colorado.gov/6wcd-ysh5 
@@ -1074,6 +1077,7 @@ Gifted & Talented Mobility Incidence Rate
   Sum:    2,192.2
 
 
+----------------------------------------------------------------------
 
 District Graduation Data by Instructional Program Service type for class of 2011-12
 https://dev.socrata.com/foundry/data.colorado.gov/cfyh-6xxg 
@@ -1507,6 +1511,7 @@ Gifted-Talented Completion Rate
   Sum:    14,734.5
 
 
+----------------------------------------------------------------------
 
 Census Counties in Colorado 2019
 https://dev.socrata.com/foundry/data.colorado.gov/8j3i-rjn4 
@@ -3105,6 +3110,7 @@ Civ Ni
   Sum:    -
 
 
+----------------------------------------------------------------------
 
 Population Colorado
 https://dev.socrata.com/foundry/data.colorado.gov/eeah-cmy8 
@@ -3185,6 +3191,7 @@ totalPopulation
   Sum:    -
 
 
+----------------------------------------------------------------------
 
 Census Field Descriptions
 https://dev.socrata.com/foundry/data.colorado.gov/qten-sdpn 
